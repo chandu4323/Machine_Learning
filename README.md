@@ -1,4 +1,6 @@
-# Machine_Learning - Churn Prediction for the Telecom Company -  Logistic Regression 
+# Machine_Learning
+
+**1.  Churn Prediction for the Telecom Company -  Logistic Regression**
 
 Based on the results of the project, here are the key conclusions:
 
